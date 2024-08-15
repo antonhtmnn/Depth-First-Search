@@ -1,8 +1,8 @@
 # Depth-First-Search
 
-## Overview
-
 This repository contains the implementation of Depth-First Search (DFS) algorithms for generating and solving random mazes. The project is part of a course on algorithms and data structures, specifically focusing on graph algorithms. The key tasks include implementing DFS to explore graphs, generating random mazes, and finding paths within these mazes.
+
+[![Depth-First-Search](https://i9.ytimg.com/vi/C9phDoLX4KQ/mqdefault.jpg?sqp=CLiY-LUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDwgVShlMA8=&rs=AOn4CLAn5gIwd5sjNyZ_7PZpZXohDHpzgg)](https://youtu.be/C9phDoLX4KQ)
 
 ## Table of Contents
 
